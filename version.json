@@ -1,10 +1,10 @@
 {
-  "versionCode": 24,
-  "versionName": "MK Launcher v1.2",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.2.apk",
-  "sha256": "126c516948becb9ab6058e23da3ac3e1c5afa59073eed913c8f456012ec3985d",
+  "versionCode": 25,
+  "versionName": "MK Launcher v1.3",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.3.apk",
+  "sha256": "855a36a2da2d68908f6c10e9bf413a14f99062d0dac71f7fe66144fe19e7785b",
   "releaseNotes": {
-    "en": ["Version label moved under the settings title", "Online updates from GitHub"],
-    "ar": ["نقل رقم النسخة تحت عنوان إعدادات المشغّل", "التحديث عبر الإنترنت من غيت هب"]
+    "en": ["Default home: switch the whole TV between MK and the original launcher", "MK capsule over the original launcher to come back"],
+    "ar": ["الشاشة الرئيسية الافتراضية: تبديل التلفزيون كله بين MK واللانشر الأصلي", "كبسولة MK فوق اللانشر الأصلي للرجوع"]
   }
 }
