@@ -1,0 +1,10 @@
+{
+  "versionCode": 24,
+  "versionName": "MK Launcher v1.2",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.2.apk",
+  "sha256": "126c516948becb9ab6058e23da3ac3e1c5afa59073eed913c8f456012ec3985d",
+  "releaseNotes": {
+    "en": ["Version label moved under the settings title", "Online updates from GitHub"],
+    "ar": ["نقل رقم النسخة تحت عنوان إعدادات المشغّل", "التحديث عبر الإنترنت من غيت هب"]
+  }
+}
