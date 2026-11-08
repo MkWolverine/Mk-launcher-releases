@@ -1,16 +1,14 @@
 {
-  "versionCode": 26,
-  "versionName": "MK Launcher v1.4",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.4.apk",
-  "sha256": "8f098a4acca9a0f627c54b347d31032d59061dd32f2e32d457d78d221befa4c4",
+  "versionCode": 27,
+  "versionName": "MK Launcher v1.5",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.5.apk",
+  "sha256": "5d8aa8a749cd7e71177d82ecbd286635eacfcec95136761b612fe9c552bc3dd5",
   "releaseNotes": {
     "en": [
-      "Back to MK from the original launcher's apps list or the quick settings",
-      "The default home choice follows what is really set"
+      "Hold the Settings button on the original launcher to show or hide the MK capsule"
     ],
     "ar": [
-      "الرجوع لـ MK من لائحة التطبيقات باللانشر الأصلي أو من الإعدادات السريعة",
-      "خيار الشاشة الرئيسية بيتبع الوضع الحقيقي"
+      "كبسة مطوّلة على زر الإعدادات فوق اللانشر الأصلي بتطلّع كبسولة MK أو بتخفيها"
     ]
   }
 }
