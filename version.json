@@ -1,14 +1,14 @@
 {
-  "versionCode": 27,
-  "versionName": "MK Launcher v1.5",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.5.apk",
-  "sha256": "5d8aa8a749cd7e71177d82ecbd286635eacfcec95136761b612fe9c552bc3dd5",
+  "versionCode": 28,
+  "versionName": "MK Launcher v1.6",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.6.apk",
+  "sha256": "be38cb9e6f14538c73c9afc4adbff1055c5726ccec69d2ccbde1dab94848b1c1",
   "releaseNotes": {
     "en": [
-      "Hold the Settings button on the original launcher to show or hide the MK capsule"
+      "Close and Close all now really stop the apps"
     ],
     "ar": [
-      "كبسة مطوّلة على زر الإعدادات فوق اللانشر الأصلي بتطلّع كبسولة MK أو بتخفيها"
+      "الإغلاق وإغلاق الكل صاروا يسكّروا التطبيقات فعلياً"
     ]
   }
 }
