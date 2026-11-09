@@ -1,18 +1,20 @@
 {
-  "versionCode": 29,
-  "versionName": "MK Launcher v1.7",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.7.apk",
-  "sha256": "a77ff5ffe83fad8c7a1272009183211d59a8b83a49a9219c6fcd33164a95aed3",
+  "versionCode": 30,
+  "versionName": "MK Launcher v1.8",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.8.apk",
+  "sha256": "e15377e168952c265a76d15dab5530f3bfe7cd72880c7bfefeafd31ebd4c9fcf",
   "releaseNotes": {
     "en": [
-      "Locked apps ask for the PIN from the phone remote and from app info",
-      "Safer connection for the mosque prayer times",
-      "Fixes and clean-up"
+      "Prayer times keep refreshing behind apps",
+      "No placeholder prayer times before the real ones arrive",
+      "Updates are always verified",
+      "New texts translated into all languages"
     ],
     "ar": [
-      "التطبيقات المقفولة بتطلب الـ PIN من ريموت الموبايل ومن معلومات التطبيق",
-      "اتصال آمن لمواقيت الجامع",
-      "إصلاحات وتنظيف"
+      "مواقيت الصلاة بتتجدّد حتى ورا التطبيقات",
+      "ما عاد تطلع مواقيت مؤقتة قبل ما توصل الحقيقية",
+      "التحديثات بتتحقق دايماً",
+      "ترجمة النصوص الجديدة لكل اللغات"
     ]
   }
 }
