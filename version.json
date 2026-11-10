@@ -1,14 +1,14 @@
 {
-  "versionCode": 31,
-  "versionName": "MK Launcher v1.9",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.9.apk",
-  "sha256": "a6bacfd3d82a035e4b383424ead0572b2d1c3ec8df4436b5b28cfa5aff07ecb6",
+  "versionCode": 32,
+  "versionName": "MK Launcher v1.10",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.10.apk",
+  "sha256": "1d3dd9ae9a357a0cfe9cd3c3e78fc8906b206af821c2b99c231510827ecd0d8b",
   "releaseNotes": {
     "en": [
-      "Performance diagnosis for the home screen"
+      "Much lighter home screen: the wallpaper's cinematic motion is now a switch in the wallpaper settings, off by default"
     ],
     "ar": [
-      "تشخيص أداء الشاشة الرئيسية"
+      "شاشة رئيسية أخف بكتير: الحركة السينمائية للخلفية صارت خيار بإعدادات الخلفية، ومطفية أساساً"
     ]
   }
 }
