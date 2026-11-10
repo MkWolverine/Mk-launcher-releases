@@ -1,20 +1,22 @@
 {
-  "versionCode": 33,
-  "versionName": "MK Launcher v1.11",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.11.apk",
-  "sha256": "e8b813a4b01848a8c44ca05b1b079c1c2b816b360cabe026dafd39c8a9218a4d",
+  "versionCode": 34,
+  "versionName": "MK Launcher v1.12",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.12.apk",
+  "sha256": "4929749f01f972e38d0b3241208e7ce0707d58d7c10abf1b06593733324749a7",
   "releaseNotes": {
     "en": [
-      "The MK capsule stays on the original launcher",
-      "Settings button on the original launcher opens the TV's own settings without MK flashing",
-      "New wallpaper shows at once without rebuilding the home screen",
-      "Lighter: settings saved in the background, fewer VPN checks"
+      "Uninstall apps from the hold menu, behind the PIN",
+      "Glass can be switched off and back on",
+      "All effects gathered under Appearance and background",
+      "Crash log for diagnosis",
+      "Cleaner, lighter code"
     ],
     "ar": [
-      "كبسولة MK بتضل ظاهرة فوق اللانشر الأصلي",
-      "زر الإعدادات عاللانشر الأصلي بيفتح إعدادات التلفزيون بدون ما يرمش MK",
-      "الخلفية الجديدة بتطلع فوراً بدون إعادة بناء الشاشة",
-      "أخف: حفظ الإعدادات بالخلفية وفحص VPN أقل"
+      "حذف التطبيقات من قائمة الضغطة المطوّلة، محمي بالـ PIN",
+      "الزجاج صار يطفي ويرجع يشتغل",
+      "كل التأثيرات صارت بمكان واحد تحت المظهر والخلفية",
+      "سجل للأعطال للتشخيص",
+      "كود أنضف وأخف"
     ]
   }
 }
