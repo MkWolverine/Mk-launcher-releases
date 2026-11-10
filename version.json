@@ -1,14 +1,20 @@
 {
-  "versionCode": 32,
-  "versionName": "MK Launcher v1.10",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.10.apk",
-  "sha256": "1d3dd9ae9a357a0cfe9cd3c3e78fc8906b206af821c2b99c231510827ecd0d8b",
+  "versionCode": 33,
+  "versionName": "MK Launcher v1.11",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.11.apk",
+  "sha256": "e8b813a4b01848a8c44ca05b1b079c1c2b816b360cabe026dafd39c8a9218a4d",
   "releaseNotes": {
     "en": [
-      "Much lighter home screen: the wallpaper's cinematic motion is now a switch in the wallpaper settings, off by default"
+      "The MK capsule stays on the original launcher",
+      "Settings button on the original launcher opens the TV's own settings without MK flashing",
+      "New wallpaper shows at once without rebuilding the home screen",
+      "Lighter: settings saved in the background, fewer VPN checks"
     ],
     "ar": [
-      "شاشة رئيسية أخف بكتير: الحركة السينمائية للخلفية صارت خيار بإعدادات الخلفية، ومطفية أساساً"
+      "كبسولة MK بتضل ظاهرة فوق اللانشر الأصلي",
+      "زر الإعدادات عاللانشر الأصلي بيفتح إعدادات التلفزيون بدون ما يرمش MK",
+      "الخلفية الجديدة بتطلع فوراً بدون إعادة بناء الشاشة",
+      "أخف: حفظ الإعدادات بالخلفية وفحص VPN أقل"
     ]
   }
 }
