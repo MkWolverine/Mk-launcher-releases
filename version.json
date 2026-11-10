@@ -1,22 +1,26 @@
 {
-  "versionCode": 34,
-  "versionName": "MK Launcher v1.12",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.12.apk",
-  "sha256": "4929749f01f972e38d0b3241208e7ce0707d58d7c10abf1b06593733324749a7",
+  "versionCode": 35,
+  "versionName": "MK Launcher v2.0",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0.apk",
+  "sha256": "a32c22adb7369d15040cc07c46e88b53aba104a8584756e30c02b96b69c3bd0f",
   "releaseNotes": {
     "en": [
-      "Uninstall apps from the hold menu, behind the PIN",
-      "Glass can be switched off and back on",
-      "All effects gathered under Appearance and background",
-      "Crash log for diagnosis",
-      "Cleaner, lighter code"
+      "Dhikr never repeats: new adhkar and a verse from the whole Qur'an",
+      "Place the dhikr shown over apps from the layout editor",
+      "Screen time per app, today and this week",
+      "A dot on the settings button when an update is ready",
+      "Weather hour by hour",
+      "Remote guide",
+      "Rain and snow alert always on"
     ],
     "ar": [
-      "حذف التطبيقات من قائمة الضغطة المطوّلة، محمي بالـ PIN",
-      "الزجاج صار يطفي ويرجع يشتغل",
-      "كل التأثيرات صارت بمكان واحد تحت المظهر والخلفية",
-      "سجل للأعطال للتشخيص",
-      "كود أنضف وأخف"
+      "الذكر ما بيتكرر: أذكار جديدة وآية من كل القرآن",
+      "مكان الذكر فوق التطبيقات بيتحدد من ترتيب العناصر",
+      "وقت الاستعمال لكل تطبيق، اليوم والأسبوع",
+      "نقطة على زر الإعدادات لما يكون في تحديث",
+      "الطقس ساعة بساعة",
+      "دليل الريموت",
+      "تنبيه المطر والثلج دايماً شغّال"
     ]
   }
 }
