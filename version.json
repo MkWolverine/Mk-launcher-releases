@@ -1,20 +1,14 @@
 {
-  "versionCode": 30,
-  "versionName": "MK Launcher v1.8",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.8.apk",
-  "sha256": "e15377e168952c265a76d15dab5530f3bfe7cd72880c7bfefeafd31ebd4c9fcf",
+  "versionCode": 31,
+  "versionName": "MK Launcher v1.9",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-1.9.apk",
+  "sha256": "a6bacfd3d82a035e4b383424ead0572b2d1c3ec8df4436b5b28cfa5aff07ecb6",
   "releaseNotes": {
     "en": [
-      "Prayer times keep refreshing behind apps",
-      "No placeholder prayer times before the real ones arrive",
-      "Updates are always verified",
-      "New texts translated into all languages"
+      "Performance diagnosis for the home screen"
     ],
     "ar": [
-      "مواقيت الصلاة بتتجدّد حتى ورا التطبيقات",
-      "ما عاد تطلع مواقيت مؤقتة قبل ما توصل الحقيقية",
-      "التحديثات بتتحقق دايماً",
-      "ترجمة النصوص الجديدة لكل اللغات"
+      "تشخيص أداء الشاشة الرئيسية"
     ]
   }
 }
