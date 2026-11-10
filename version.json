@@ -1,10 +1,11 @@
 {
-  "versionCode": 36,
+  "versionCode": 37,
   "versionName": "MK Launcher v2.0",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-36.apk",
-  "sha256": "379adbc78a03a7f02bbe88250b4709cb73a9126f59fc1d2d9a0f179d10ab8c54",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-37.apk",
+  "sha256": "243774727294d6ad977a89ef8f70a59b19804f0a493e3f877b66bf3ac05073f8",
   "releaseNotes": {
     "en": [
+      "The original launcher gets its own notifications back",
       "Weather effects no longer flicker",
       "Dhikr never repeats: new adhkar and a verse from the whole Qur'an",
       "Place the dhikr shown over apps from the layout editor",
@@ -15,6 +16,7 @@
       "Rain and snow alert always on"
     ],
     "ar": [
+      "اللانشر الأصلي بيرجعلو مستمع الإشعارات تبعو",
       "تأثيرات الطقس ما عادت ترمش",
       "الذكر ما بيتكرر: أذكار جديدة وآية من كل القرآن",
       "مكان الذكر فوق التطبيقات بيتحدد من ترتيب العناصر",
