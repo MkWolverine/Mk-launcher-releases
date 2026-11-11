@@ -1,30 +1,28 @@
 {
-  "versionCode": 37,
+  "versionCode": 38,
   "versionName": "MK Launcher v2.0",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-37.apk",
-  "sha256": "243774727294d6ad977a89ef8f70a59b19804f0a493e3f877b66bf3ac05073f8",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-38.apk",
+  "sha256": "cecefd62217517bbc1e2865b44bd3c6eed475d21479214c50aabe5c406fd8f87",
   "releaseNotes": {
     "en": [
-      "The original launcher gets its own notifications back",
-      "Weather effects no longer flicker",
-      "Dhikr never repeats: new adhkar and a verse from the whole Qur'an",
-      "Place the dhikr shown over apps from the layout editor",
-      "Screen time per app, today and this week",
-      "A dot on the settings button when an update is ready",
-      "Weather hour by hour",
-      "Remote guide",
-      "Rain and snow alert always on"
+      "The adhan always uses today's prayer times, even if Home was not opened",
+      "The adhan still plays if the TV wakes a minute late",
+      "A message when the mosque's times could not be updated",
+      "The PIN is asked for time limits in settings, restoring a backup and switching to the original launcher",
+      "The phone remote asks for the PIN again",
+      "The top bar glass follows the picture right after the TV wakes",
+      "The weather button only moves for rain and snow, so the home screen rests",
+      "Small fixes"
     ],
     "ar": [
-      "اللانشر الأصلي بيرجعلو مستمع الإشعارات تبعو",
-      "تأثيرات الطقس ما عادت ترمش",
-      "الذكر ما بيتكرر: أذكار جديدة وآية من كل القرآن",
-      "مكان الذكر فوق التطبيقات بيتحدد من ترتيب العناصر",
-      "وقت الاستعمال لكل تطبيق، اليوم والأسبوع",
-      "نقطة على زر الإعدادات لما يكون في تحديث",
-      "الطقس ساعة بساعة",
-      "دليل الريموت",
-      "تنبيه المطر والثلج دايماً شغّال"
+      "الأذان دايماً على أوقات اليوم، حتى لو ما انفتحت الشاشة الرئيسية",
+      "الأذان بيضرب حتى لو صحي التلفزيون متأخر دقيقة",
+      "رسالة إذا ما قدر يحدّث أوقات الجامع",
+      "البين بينطلب لوقت التطبيقات بالإعدادات واسترجاع النسخة والتبديل للانشر الأصلي",
+      "ريموت الموبايل رجع يطلب البين",
+      "زجاج الشريط يلي فوق بيتبع الصورة أول ما يشتغل التلفزيون",
+      "زر الطقس ما بيتحرك إلا بالمطر والتلج، فالشاشة الرئيسية بترتاح",
+      "تصليحات صغيرة"
     ]
   }
 }
