@@ -1,18 +1,14 @@
 {
-  "versionCode": 41,
+  "versionCode": 42,
   "versionName": "MK Launcher v2.0",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-41.apk",
-  "sha256": "ab65520828157c0f2b5dda9fa1698cd99c6e8146d987805b62d9583694a39444",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-42.apk",
+  "sha256": "b6f23766eb6d38097457095a113106f011208ec1aa2d6a76b2acd6a63367b810",
   "releaseNotes": {
     "en": [
-      "Check for update: 'Checking…' appears at the bottom, then whether you have the latest version or a new one is available",
-      "A new version shows up right after it is published",
-      "More internal clean-up"
+      "Check for update: the card's line shows 'Checking…', then whether you have the latest version or a new one is available"
     ],
     "ar": [
-      "التحقق من التحديث: بتطلع تحت «جاري التحقق…» وبعدين إذا انت على آخر نسخة أو في نسخة جديدة",
-      "النسخة الجديدة بتبيّن فوراً بعد ما تنرفع",
-      "تنضيف داخلي إضافي"
+      "التحقق من التحديث: سطر البطاقة بيكتب «جاري التحقق…» وبعدين إذا انت على آخر نسخة أو في نسخة جديدة"
     ]
   }
 }
