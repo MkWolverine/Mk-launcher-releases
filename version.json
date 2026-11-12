@@ -1,16 +1,22 @@
 {
-  "versionCode": 39,
+  "versionCode": 40,
   "versionName": "MK Launcher v2.0",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-39.apk",
-  "sha256": "ef0167a4cd7af2bd1d89491c995b5a043b78eb05f609864a634111d1de91963e",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-40.apk",
+  "sha256": "b4ce14322dd52b07fd379ad67b997dc5cbcc062c1402f26371bce0ba58227440",
   "releaseNotes": {
     "en": [
-      "Internal clean-up: the PIN code is in one place",
-      "Unused hidden features removed (festive theme, race panel, cinematic shelf, system stats)"
+      "Changing the PIN: OK on the keyboard saves it, and the new PIN is typed twice to confirm",
+      "The search box in the settings panel can be reached with the arrows",
+      "The glass of open cards follows a new wallpaper at once",
+      "Home closes everything that is open",
+      "Internal clean-up: a lighter, tidier launcher (Arabic and English only)"
     ],
     "ar": [
-      "ترتيب داخلي: كود البين صار بمكان واحد",
-      "انحذفت ميزات مخفية ما بتنستعمل (ثيم الأعياد، لوحة السباقات، الرف السينمائي، إحصائيات النظام)"
+      "تغيير البين: كبسة صح عالكيبورد بتحفظ، والرمز الجديد بينطلب مرتين للتأكيد",
+      "خانة البحث بصفحة الإعدادات صارت توصلها بالأسهم",
+      "زجاج البطاقات المفتوحة بيتبع الخلفية الجديدة فوراً",
+      "كبسة الهوم بتسكّر كل شي مفتوح",
+      "ترتيب وتنضيف داخلي: لانشر أخف وأنظف (عربي وانكليزي بس)"
     ]
   }
 }
