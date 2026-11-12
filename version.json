@@ -1,28 +1,16 @@
 {
-  "versionCode": 38,
+  "versionCode": 39,
   "versionName": "MK Launcher v2.0",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-38.apk",
-  "sha256": "cecefd62217517bbc1e2865b44bd3c6eed475d21479214c50aabe5c406fd8f87",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-39.apk",
+  "sha256": "ef0167a4cd7af2bd1d89491c995b5a043b78eb05f609864a634111d1de91963e",
   "releaseNotes": {
     "en": [
-      "The adhan always uses today's prayer times, even if Home was not opened",
-      "The adhan still plays if the TV wakes a minute late",
-      "A message when the mosque's times could not be updated",
-      "The PIN is asked for time limits in settings, restoring a backup and switching to the original launcher",
-      "The phone remote asks for the PIN again",
-      "The top bar glass follows the picture right after the TV wakes",
-      "The weather button only moves for rain and snow, so the home screen rests",
-      "Small fixes"
+      "Internal clean-up: the PIN code is in one place",
+      "Unused hidden features removed (festive theme, race panel, cinematic shelf, system stats)"
     ],
     "ar": [
-      "الأذان دايماً على أوقات اليوم، حتى لو ما انفتحت الشاشة الرئيسية",
-      "الأذان بيضرب حتى لو صحي التلفزيون متأخر دقيقة",
-      "رسالة إذا ما قدر يحدّث أوقات الجامع",
-      "البين بينطلب لوقت التطبيقات بالإعدادات واسترجاع النسخة والتبديل للانشر الأصلي",
-      "ريموت الموبايل رجع يطلب البين",
-      "زجاج الشريط يلي فوق بيتبع الصورة أول ما يشتغل التلفزيون",
-      "زر الطقس ما بيتحرك إلا بالمطر والتلج، فالشاشة الرئيسية بترتاح",
-      "تصليحات صغيرة"
+      "ترتيب داخلي: كود البين صار بمكان واحد",
+      "انحذفت ميزات مخفية ما بتنستعمل (ثيم الأعياد، لوحة السباقات، الرف السينمائي، إحصائيات النظام)"
     ]
   }
 }
