@@ -1,14 +1,24 @@
 {
-  "versionCode": 42,
+  "versionCode": 43,
   "versionName": "MK Launcher v2.0",
-  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-42.apk",
-  "sha256": "b6f23766eb6d38097457095a113106f011208ec1aa2d6a76b2acd6a63367b810",
+  "apkUrl": "https://raw.githubusercontent.com/MkWolverine/Mk-launcher-releases/main/MK-Launcher-2.0-43.apk",
+  "sha256": "69bd975523bbbd34a12784d8d5924110de6a1b7066940a5d9557561f2bfcb7ad",
   "releaseNotes": {
     "en": [
-      "Check for update: the card's line shows 'Checking…', then whether you have the latest version or a new one is available"
+      "Tailscale on and off from the quick access panel",
+      "The on-screen keyboard comes up for PIN boxes",
+      "The VPN warning without the extra blue word",
+      "Weather button: a bigger umbrella on its own when rain is coming",
+      "Quick access opens on Bluetooth; Down goes through the right column, then the left",
+      "System updates from TCL or Google are checked and anything they undid is put back, shown in About"
     ],
     "ar": [
-      "التحقق من التحديث: سطر البطاقة بيكتب «جاري التحقق…» وبعدين إذا انت على آخر نسخة أو في نسخة جديدة"
+      "تشغيل وإيقاف Tailscale من الوصول السريع",
+      "كيبورد التلفزيون بيطلع بخانات البين",
+      "تنبيه الـ VPN بلا الكلمة الزرقا الزيادة",
+      "زر الطقس: شمسية أكبر لحالها لما في مطر",
+      "الوصول السريع بيفتح عالبلوتوث، والنزول بيمشي بالعمود اليمين وبعدين اليسار",
+      "تحديثات النظام من TCL أو غوغل بتنفحص وبيتصلّح يلي غيّروه، وبيطلع بقسم حول"
     ]
   }
 }
